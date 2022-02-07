@@ -44,7 +44,7 @@ theme_settings:
 
   # Scripts
   google_analytics: 
-  disqus_shortname: 
+  disqus_shortname: blog-reply
   katex: true # Enable if using math markup
   search: true # Enable the search feature
 
