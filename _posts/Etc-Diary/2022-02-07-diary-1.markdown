@@ -1,0 +1,21 @@
+---
+layout: post
+title: "220207"
+subtitle: ""
+categories: [Etc/Github Blog]
+tags: [Diary]
+comments: true
+---
+
+> 시작
+
+---
+
+뭔가 예전부터 블로그에 대한 로망이 있어서,
+네이버 블로그를 사용해보았는데
+생각보다 기능이 제한적이라 
+이것저것 찾다보니 github 블로그를 사용하게 되었다.
+블로그 Jekyll테마는 [Miran Lee님](https://mmirann.github.io/) Base로 해서 슬슬 꾸려나가 볼 생각이다.
+근데 이거 생각보다 어렵다.
+html / css / markup .. 이제 c랑 python 겨우 익숙해지고 있는데 ㅠㅠ...
+여튼 열심히 해보자!
