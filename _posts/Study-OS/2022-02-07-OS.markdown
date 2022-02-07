@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[운영체제] OS Concepts Ch.1"
+title: "[운영체제] Ch.1 Introduction"
 subtitle: ""
 categories: [Study/OS]
 tags:
