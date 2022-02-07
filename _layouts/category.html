@@ -10,8 +10,8 @@ layout: default
   site.categories[category] %}
   <li>
     <h3>
-      <span style="float:left;"><a href="{{  post.url | relative_url }}">{{ post.title }}</a></span>
-      <span style="float:left;">{{ post.date | date_to_string }}</span>
+      <p><a href="{{  post.url | relative_url }}">{{ post.title }}</a>
+      <span style="float:right;">{{ post.date | date_to_string }}</span></p>
       <hr>
     </h3>
   </li>
