@@ -1,0 +1,100 @@
+# SITE CONFIGURATION
+baseurl: "/"
+url: "https://borisleevin.github.io"
+
+# THEME-SPECIFIC CONFIGURATION
+theme_settings:
+  # Meta
+  title: Boris Lee
+  avatar: 
+  favicon: 
+  gravatar: # Email MD5 hash
+  description: Boris' Blog # used by search engines
+
+  # Header and footer text
+  header_text: >
+    Never Knows Best
+  header_text_feature_image: 
+  footer_text: >
+    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
+
+  # Icons
+  rss: false
+  email_address: "borisleevin@naver.com"
+  behance:
+  bitbucket:
+  dribbble:
+  facebook:
+  flickr:
+  gitlab:
+  github: "borisleevin"
+  gitter:
+  google_plus:
+  instagram: 
+  linkedin: # Full URL
+  pinterest:
+  reddit:
+  soundcloud:
+  stack_exchange: # Full URL
+  steam:
+  tumblr:
+  twitter:
+  wordpress:
+  youtube:
+
+  # Scripts
+  google_analytics: 
+  disqus_shortname: 
+  katex: true # Enable if using math markup
+  search: true # Enable the search feature
+
+  # Localization strings
+  str_follow_on: "Follow on"
+  str_rss_follow: "Follow RSS feed"
+  str_email: "Email"
+  str_next_post: "Next post"
+  str_previous_post: "Previous post"
+  str_next_page: "Next"
+  str_previous_page: "Prev"
+  str_continue_reading: "Continue reading"
+  str_javascript_required_disqus: "Please enable JavaScript to view comments."
+  str_search_no_results: "No results found."
+
+  # Colours, typography and padding
+  # Open the "_sass > base" folder, and open "_variables.scss"
+  # google_fonts: "Source+Sans+Pro:400,700,700italic,400italic&Nanum+Gothic:400,700"
+  # "Nanum+Gothic:400, 700"
+  google_fonts: Nanum+Gothic:wght@400;700,Source+Sans+Pro:ital,wght@0,400;0,700;1,400;1,700
+  # Post navigation
+  post_navigation: true
+
+encoding: "utf-8"
+# Configure the plugin here
+category_path: "category" # <- default value
+category_layout: "category.html" # <- default value
+
+# PAGINATION
+paginate: 5
+paginate_path: "blog/page:num"
+
+animation: true
+
+# BUILD SETTINGS
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+sass:
+  sass_dir: _sass
+  style: :compressed
+plugins:
+  - jekyll-paginate
+  - jekyll-category-pages
+gem:
+  - jekyll-sitemap
+  - jekyll-feed
+  - wdm
+exclude:
+  - Gemfile
+  - Gemfile.lock
