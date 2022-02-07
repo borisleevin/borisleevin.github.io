@@ -11,7 +11,7 @@ layout: default
   <li>
     <h2>
       <a href="{{  post.url | relative_url }}"> {{ post.title }} </a>
-      <small>_{{ post.date | date_to_string }}</small>
+      <small>{{ post.date | date_to_string }}</small>
     </h2>
   </li>
   {% endfor %}
