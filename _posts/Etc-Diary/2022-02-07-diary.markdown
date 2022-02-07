@@ -7,7 +7,7 @@ tags: [Diary]
 comments: true
 ---
 
-> 시작
+><point>시작</point>
 
 ---
 
