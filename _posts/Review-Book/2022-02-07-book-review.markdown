@@ -6,7 +6,9 @@ categories: [Review/Book]
 tags: [Review, Book]
 comments: true
 ---
-><p style="text-align:right;"><point>무라카미 하루키, 유유정 옮김</point></p>  
+
+><p style="text-align:right;"><point>무라카미 하루키, 유유정 옮김</point></p>
+
 ---
 
 나는 색다른 인간은 아니다.  
