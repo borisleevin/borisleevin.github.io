@@ -7,8 +7,6 @@ tags: [Review, Book]
 comments: true
 ---
 ><p style="text-align:right;"><point>무라카미 하루키, 유유정 옮김</point></p>
-​
-
 나는 색다른 인간은 아니다.  
 정말 그렇게 생각한다. 
 나는 평균적인 인간이란곤 할 수 없을지 모르나, 그러나 색다른 인간도 아니다. 나는 내 나름대로 지극히 성실한 인간인 것이다.  
