@@ -15,6 +15,7 @@ article {
     margin: 0;
   }
   header {
+    margin-top: 6%;
     margin-bottom: 6%;
     text-align: center;
   }
@@ -63,6 +64,5 @@ header {
   }
   .post-content {
     @extend %padding-regular;
-    padding-top: $padding-small * 1.6;
   }
 }
