@@ -63,5 +63,6 @@ header {
   }
   .post-content {
     @extend %padding-regular;
+    padding-top: $padding-small * 1.6;
   }
 }
