@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "[리눅스 마스터] Operating System: Concepts Ch.2"
+title: "[리눅스 마스터] Chapter 01. 리눅스의 개요"
 subtitle: ""
-categories: [Study/LinuxMaster] Chapter 01. 리눅스의 개요
+categories: [Study/LinuxMaster] 
 tags:
 comments: true
 ---
