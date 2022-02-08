@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Book Review
+title: Book
 permalink: "Review/Book"
 ---
 

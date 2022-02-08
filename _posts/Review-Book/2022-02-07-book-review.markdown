@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[독서] 댄스댄스댄스"
+title: "[Book] 댄스댄스댄스"
 subtitle:
 categories: [Review/Book]
 tags: [Review, Book]
