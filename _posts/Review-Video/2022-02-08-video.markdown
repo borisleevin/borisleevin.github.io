@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "[Video] 도로헤도로"
+title: "[Animation] 도로헤도로"
 subtitle:
 categories: [Review/Video]
-tags: [Review, Video]
+tags: [Review, Animation]
 comments: true
 ---
 
