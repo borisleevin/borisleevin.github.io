@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Etc/Diary
+title: Diary
 permalink: "Etc/Diary"
 ---
 

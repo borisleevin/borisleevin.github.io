@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Video
+title: Video Review
 permalink: "Review/Video"
 ---
 
