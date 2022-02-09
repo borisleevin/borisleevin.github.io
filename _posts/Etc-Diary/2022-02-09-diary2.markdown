@@ -47,8 +47,4 @@ comments: true
 
   도박묵시록 카이지의 인생에 관련된 짤로 오늘 일기는 마무리!
 
-  ![](/assets/img/life1.jpg)
-  ![](/assets/img/life2.jpg)
-  ![](/assets/img/life3.jpg)
-  ![](/assets/img/life4.jpg)
-  ![](/assets/img/life5.jpg)
+  ![](/assets/img/life.jpg)
