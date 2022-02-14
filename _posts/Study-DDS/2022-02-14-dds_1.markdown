@@ -1,0 +1,16 @@
+---
+layout: post
+title: "[DDS] Data Distribution Service"
+subtitle: ""
+categories: [Study/LinuxMaster] 
+tags:
+comments: true
+---
+
+## DDS
+
+---
+
+**1. DDS의 정의**
+The DDS specification descirbes a Data-Centric Publish-Subscribe(DCPS) model for distributed application communication and intergration.
+ : 분산된 IoT 기기들의 효율적인 데이터 통신과 통합을 위한 데이터 중심의 출판-구독 시스템
