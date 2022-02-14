@@ -18,4 +18,4 @@ comments: true
 
 ---
 Refereces  
-[1] Angelo Corsaro, Douglas C. Schmidt, PhD, "The Data Distribution Service"
+[1] Object Management Group. Data distribution service for real-time systems, 2004.
