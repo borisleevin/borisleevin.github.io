@@ -17,5 +17,5 @@ comments: true
 ![](/assets/img/dss_std.png)
 
 ---
-Refereces  
+References  
 [1] Object Management Group. Data distribution service for real-time systems, 2004.
