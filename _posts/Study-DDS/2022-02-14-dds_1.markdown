@@ -15,7 +15,7 @@ comments: true
  
 
 ![](/assets/img/dds_std.png)
-<center>The DSS Standard</center>
+<center>The DSS Standard<sup>[1]</sup></center>
 ---
 References  
 [1] Object Management Group. Data distribution service for real-time systems, 2004.
