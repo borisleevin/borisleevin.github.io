@@ -7,7 +7,7 @@ tags:
 comments: true
 ---
 
-## DDS의 정의
+## DDS의 정의 및 기본 컨셉
 
 ---
  : OMG(Object Management Group)에서 정의한 데이터 분배 미들웨어 규격으로 데이터 중심 발행-구독(DCPS : Data Centric Publish-Subscribe) 방식을 표준화 한 것.
