@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[DDS] Data Distribution Service"
+title: "[DDS] 1. Intro"
 subtitle: ""
 categories: [Study/DDS] 
 tags:
