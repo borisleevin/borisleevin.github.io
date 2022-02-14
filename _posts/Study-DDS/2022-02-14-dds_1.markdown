@@ -3,11 +3,19 @@ layout: post
 title: "[DDS] 1. Intro"
 subtitle: ""
 categories: [Study/DDS] 
-tags:
+tags: [Study,DDS]
 comments: true
 ---
 
 ## DDS의 정의 및 기본 컨셉
 
 ---
- : OMG(Object Management Group)에서 정의한 데이터 분배 미들웨어 규격으로 데이터 중심 발행-구독(DCPS : Data Centric Publish-Subscribe) 방식을 표준화 한 것.
+ : OMG(Object Management Group)에서 정의한 데이터 분배 미들웨어 규격으로 데이터 중심 발행-구독(DCPS : Data Centric Publish-Subscribe) 방식을 표준화 한 것.  
+
+ 
+
+![](/assets/img/dss_std.png)
+
+---
+Refereces  
+[1] Angelo Corsaro, Douglas C. Schmidt, PhD, "The Data Distribution Service"
