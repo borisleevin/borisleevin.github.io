@@ -2,8 +2,8 @@
 layout: post
 title: "[DDS] 1. Intro"
 subtitle: ""
-categories: [Study/DDS] 
-tags: [Study,DDS]
+categories: [Study/Network] 
+tags: [Study,Network]
 comments: true
 ---
 

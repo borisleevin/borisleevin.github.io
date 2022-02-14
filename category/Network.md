@@ -1,7 +1,7 @@
 ---
 layout: category
-title: DDS Study
-permalink: "Study/DDS"
+title: 네트워크
+permalink: "Study/Network"
 ---
 
 Another sample category page.
