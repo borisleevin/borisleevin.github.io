@@ -14,7 +14,7 @@ comments: true
 
  
 
-![](/assets/img/dss_std.png)
+![](/assets/img/dds_std.png)
 <center>The DSS Standard</center>
 ---
 References  
