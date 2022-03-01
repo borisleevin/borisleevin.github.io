@@ -67,6 +67,7 @@ comments: true
 ## 4. 운영체제의 사례
 ---
 1) 데스크톱 및 서버 운영체제  
+
    a) 윈도우
 : 1975년 빌 게이츠 & 폴 앨런이 설립한 마이크로소프트에서 제작한 PC 운영체제
 : Win10의 모체는 NT 커털 탑재한 기업용 OS인 Win NT
@@ -84,6 +85,7 @@ comments: true
 : C언어로 개발되어 새로운 플랫폼에 이식이 용이
 
 2) 모바일 및 임베디드 운영체제  
+
    a) 안드로이드
 : 2005년에 구글이 안드로이드 회사 인수.
 : 가상 머신 변경 : 달빅 -> 안드로이드 런타임
@@ -100,15 +102,15 @@ comments: true
 : webOS : LG에서 개발한 스마트 TV, IoT용 운영체제
 
 3) IoT 운영체제  
+
    a) Linux
 : Android Things : 2016년 개발된 안드로이드 기반 IoT 플랫폼
-: Ubuntu Core : IoT용 우분투
-   b) Windows IoT : IoT용 윈도우
+: Ubuntu Core : IoT용 우분투  
+   b) Windows IoT : IoT용 윈도우  
    c) RTOS (실시간 운영체제)
  : FreeRTOS : 소형 저출력 엣지 디바이스용 오픈소스 운영체제 
  : VxWorks : 미국 윈드리버에서 개발한 RTOS
  : QNX : 임베디드 시장에서 주로 사용하는 유닉스 기반 RTOS
-
    d) 경량 OS
  : Contiki : 조명제어, 사운드 모니터링 등에 사용되는 BSD 라이선스 운영체제
  : TinyOS : 센서 네트워크용 운영체제
