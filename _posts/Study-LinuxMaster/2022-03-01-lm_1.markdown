@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[리눅스마스터] Ch.1 리눅스의 개요"
+title: "[리눅스마스터] Ch.1-1 리눅스의 개요"
 subtitle: "Section 1. 운영체제의 개요"
 categories: [Study/LinuxMaster] 
 tags:
@@ -66,8 +66,8 @@ comments: true
 
 ## 4. 운영체제의 사례
 ---
-1) 데스크톱 및 서버 운영체제  
 
+1) 데스크톱 및 서버 운영체제  
    a) 윈도우
 : 1975년 빌 게이츠 & 폴 앨런이 설립한 마이크로소프트에서 제작한 PC 운영체제
 : Win10의 모체는 NT 커털 탑재한 기업용 OS인 Win NT
@@ -82,10 +82,9 @@ comments: true
 
    d) 유닉스
 : 1969년 AT&T사 벨 연구소의 켄 톰슨 & 데니스 리치가 개발
-: C언어로 개발되어 새로운 플랫폼에 이식이 용이
+: C언어로 개발되어 새로운 플랫폼에 이식이 용이  
 
 2) 모바일 및 임베디드 운영체제  
-
    a) 안드로이드
 : 2005년에 구글이 안드로이드 회사 인수.
 : 가상 머신 변경 : 달빅 -> 안드로이드 런타임
@@ -102,7 +101,6 @@ comments: true
 : webOS : LG에서 개발한 스마트 TV, IoT용 운영체제
 
 3) IoT 운영체제  
-
    a) Linux
 : Android Things : 2016년 개발된 안드로이드 기반 IoT 플랫폼
 : Ubuntu Core : IoT용 우분투  

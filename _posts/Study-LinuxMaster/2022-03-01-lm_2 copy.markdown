@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[리눅스마스터] Ch.1 리눅스의 개요"
+title: "[리눅스마스터] Ch.1-2 리눅스의 개요"
 subtitle: "Section 2. 리눅스의 기초"
 categories: [Study/LinuxMaster] 
 tags:
